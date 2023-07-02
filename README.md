@@ -5,3 +5,9 @@
 ```
 tsc --init
 ```
+
+- Auto reload (whatch):
+
+```
+tsc -w
+```
