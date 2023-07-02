@@ -29,3 +29,12 @@ let inf = "Teste";
 // inf = 1;
 
 console.log("Testando watch ou live reload");
+
+// Desafio 2
+let num: number = 2;
+
+let numStr = num.toString();
+
+let template = `O número é ${numStr}`;
+
+console.log(template);
